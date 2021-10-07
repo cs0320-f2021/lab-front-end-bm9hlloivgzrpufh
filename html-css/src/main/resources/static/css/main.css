@@ -1,3 +1,14 @@
 input[type="number"] {
   width: 3em;
 }
+body {
+    background-color: #E3A6AC;
+}
+#id1 {
+  color: red;
+}
+
+.class {
+  color: green;
+}
+
